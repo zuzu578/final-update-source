@@ -1,0 +1,6 @@
+Tomcat 오류날때 
+
+cmd 
+netstat -ano -> 8080 포트 사용하는 pid  죽이기 
+
+ex) taskkill /pid 21336 /F 
